@@ -1,0 +1,11 @@
+{
+  "name": "coding-practice-2d",
+  "version": "1.0.0",
+  "description": "Create a file `index.js` in the <b>ratioFactorial</b> directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
